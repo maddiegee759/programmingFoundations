@@ -1,7 +1,7 @@
 // Task 4
 /*
 Name: Maddie Gee  
-Description: This program that will generate a username
+Description: This program that will sort files in order of speed
 Date: 01/11/2024  
 Location: Edinburgh College - Sighthill   
 Version: 1.0  
@@ -62,4 +62,5 @@ public class ProgrammingFoundationsA4
         DisplayArray(calcTime);
         SortArray(calcTime);
     }
+
 
